@@ -81,7 +81,7 @@ Only one path leads to the treasure 💎
 
 ## 📚 Learning Journey  
 
-🐍 **Day 1 of Learning Python**  
+🐍 **Day 3 Of Learning Python**  
 
 This project marks the beginning of my Python journey,  
 focusing on understanding basic syntax and control flow.
